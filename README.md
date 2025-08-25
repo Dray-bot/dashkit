@@ -48,6 +48,6 @@ It’s designed for developers, agencies, and startups to quickly build polished
 Clone the repo to your local machine:
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Dray-bot/dashkit>
 cd <dashkit>
 npm install
