@@ -20,7 +20,7 @@ This is a professional, enterprise-level SaaS UI kit built with Next.js and Tail
 
 It’s designed for developers, agencies, and startups to quickly build polished SaaS dashboards without starting from scratch.
 
-![Dashboard Preview](/images/screenshot.png) 
+![Dashboard Preview]("/images/screenshot.png") 
 
 ## Features
 
